@@ -1,4 +1,4 @@
-# big-react-demo
+# Big React Demo
 
 The ThoughtSpot [Visual Embed SDK](https://github.com/thoughtspot/visual-embed-sdk) exposes a set of React components and utilities, to make embedding TS visual components in React applications easy.
 <br/><br/>
